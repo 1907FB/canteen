@@ -1,12 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-v4:24.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://D:/avds/.android/build-cache/104ff51057de7b640283a135bd866d2366b0f433/output/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11/output/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://D:/avds/.android/build-cache/104ff51057de7b640283a135bd866d2366b0f433/output/jars/classes.jar!/" />
-      <root url="file://D:/avds/.android/build-cache/104ff51057de7b640283a135bd866d2366b0f433/output/res" />
-      <root url="jar://D:/avds/.android/build-cache/104ff51057de7b640283a135bd866d2366b0f433/output/jars/libs/internal_impl-24.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11/output/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11/output/jars/libs/internal_impl-24.0.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11/output/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

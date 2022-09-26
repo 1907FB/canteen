@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-appindexing:9.8.0@aar">
     <CLASSES>
-      <root url="jar://D:/avds/.android/build-cache/8e96037b645333a4fccd05472b6c60a7894a5cb5/output/jars/classes.jar!/" />
-      <root url="file://D:/avds/.android/build-cache/8e96037b645333a4fccd05472b6c60a7894a5cb5/output/res" />
+      <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/1f96b172dec29c856f593b4d8e123636a2d221d8/output/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/1f96b172dec29c856f593b4d8e123636a2d221d8/output/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/1f96b172dec29c856f593b4d8e123636a2d221d8/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
