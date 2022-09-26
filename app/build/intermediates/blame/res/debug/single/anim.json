@@ -1,66 +1,66 @@
 [
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
-        "source": "D:\\avds\\.android\\build-cache\\5d2dbfc6c46858be74627b29309cf8a91966a4c1\\output\\res\\anim\\fab_out.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_top.xml",
-        "source": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
-        "source": "D:\\avds\\.android\\build-cache\\5d2dbfc6c46858be74627b29309cf8a91966a4c1\\output\\res\\anim\\snackbar_in.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "D:\\avds\\.android\\build-cache\\806a9d77cd623865c4cf54042393816004d42086\\output\\res\\anim\\snackbar_in.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "D:\\avds\\.android\\build-cache\\806a9d77cd623865c4cf54042393816004d42086\\output\\res\\anim\\snackbar_out.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
-        "source": "D:\\avds\\.android\\build-cache\\5d2dbfc6c46858be74627b29309cf8a91966a4c1\\output\\res\\anim\\snackbar_out.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
-        "source": "D:\\avds\\.android\\build-cache\\5d2dbfc6c46858be74627b29309cf8a91966a4c1\\output\\res\\anim\\fab_in.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "D:\\avds\\.android\\build-cache\\806a9d77cd623865c4cf54042393816004d42086\\output\\res\\anim\\fab_in.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "D:\\avds\\.android\\build-cache\\806a9d77cd623865c4cf54042393816004d42086\\output\\res\\anim\\fab_out.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_top.xml",
+        "source": "D:\\数据\\大四上\\物联网\\canteen\\app\\src\\main\\res\\anim\\slide_in_top.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "D:\\数据\\大四上\\物联网\\canteen\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
-        "source": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

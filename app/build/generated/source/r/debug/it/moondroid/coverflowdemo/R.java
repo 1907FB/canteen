@@ -3154,10 +3154,6 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f090075;
         public static final int Animation_AppCompat_Dialog=0x7f090076;
         public static final int Animation_AppCompat_DropDownUp=0x7f090077;
-        /**  Customize your theme here. 
-<item name="windowActionBar">true</item>
-<item name="windowNoTitle">false</item>
-         */
         public static final int AppTheme=0x7f090078;
         public static final int AppTheme_AppBarOverlay=0x7f090079;
         public static final int AppTheme_NoActionBar=0x7f09007a;

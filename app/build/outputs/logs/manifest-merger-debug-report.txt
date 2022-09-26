@@ -1,191 +1,191 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:2:1-99:12
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:2:1-99:12
 	package
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:5:5-94:19
-MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\lib\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:design:22.2.1] D:\avds\.android\build-cache\5d2dbfc6c46858be74627b29309cf8a91966a4c1\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\avds\.android\build-cache\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\output\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\avds\.android\build-cache\8e96037b645333a4fccd05472b6c60a7894a5cb5\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\avds\.android\build-cache\32ceda69628394f99a7cb750d7951c3f07f462fa\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\120df42272d8ee880bcc72d7dd0015aad5df4738\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\104ff51057de7b640283a135bd866d2366b0f433\output\AndroidManifest.xml:25:5-20
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:5:5-94:19
+MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\数据\大四上\物联网\canteen\lib\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:22.2.1] D:\avds\.android\build-cache\806a9d77cd623865c4cf54042393816004d42086\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\avds\.android\build-cache\8cce616692a6ea6d30daedf158e5780b1a427c27\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\avds\.android\build-cache\1f96b172dec29c856f593b4d8e123636a2d221d8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\avds\.android\build-cache\c17911e6d2def14d7804cacdabbc2577e4f7f99b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:7:9-36
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:7:9-36
 	android:theme
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:9:9-52
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:9:9-52
 activity#it.moondroid.coverflowdemo.CoverFlowActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:11:10-18:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:11:10-18:21
 	android:label
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:13:10-42
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:13:10-42
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:12:10-43
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:12:10-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:14:10-17:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:14:10-17:26
 action#android.intent.action.MAIN
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:15:10-62
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:15:10-62
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:15:18-59
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:15:18-59
 category#android.intent.category.LAUNCHER
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:16:10-70
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:16:10-70
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:16:20-67
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:16:20-67
 activity#com.topelec.smarthome.MainActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:20:10-30:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:20:10-30:21
 	android:configChanges
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:22:10-71
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:22:10-71
 	android:theme
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:23:10-48
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:23:10-48
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:21:10-59
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:21:10-59
 intent-filter#android.intent.category.DEFAULT+com.topelec.smarthome.ACTION_SMARTHOME
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:24:10-29:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:24:10-29:26
 action#com.topelec.smarthome.ACTION_SMARTHOME
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:25:10-74
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:25:10-74
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:25:18-71
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:25:18-71
 category#android.intent.category.DEFAULT
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:28:10-69
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:28:10-69
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:28:20-66
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:28:20-66
 activity#com.topelec.smarthome.Settings
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:31:10-68
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:31:10-68
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:31:20-65
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:31:20-65
 activity#com.topelec.smartagriculture.MainActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:32:10-39:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:32:10-39:21
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:32:20-76
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:32:20-76
 intent-filter#android.intent.category.DEFAULT+com.topelec.smartagriculture.ACTION_AGRICULTURE
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:33:10-38:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:33:10-38:26
 action#com.topelec.smartagriculture.ACTION_AGRICULTURE
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:34:10-83
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:34:10-83
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:34:18-80
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:34:18-80
 activity#com.topelec.smartagriculture.SmartAgricultureSettings
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:40:10-91
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:40:10-91
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:40:20-88
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:40:20-88
 activity#com.topelec.foodtraceability.QueryActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:41:10-48:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:41:10-48:21
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:41:20-77
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:41:20-77
 intent-filter#android.intent.category.DEFAULT+com.topelec.foodtraceability.ACTION_FOODTRACEABILITY
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:42:10-47:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:42:10-47:26
 action#com.topelec.foodtraceability.ACTION_FOODTRACEABILITY
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:43:10-88
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:43:10-88
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:43:18-85
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:43:18-85
 activity#com.topelec.foodtraceability.SettingsActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:49:10-83
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:49:10-83
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:49:20-80
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:49:20-80
 activity#com.topelec.buscard.CardActivityGroup
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:50:10-57:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:50:10-57:21
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:50:20-72
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:50:20-72
 intent-filter#android.intent.category.DEFAULT+com.topelec.buscard.ACTION_BUSCARD
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:51:10-56:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:51:10-56:26
 action#com.topelec.buscard.ACTION_BUSCARD
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:52:10-70
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:52:10-70
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:52:18-67
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:52:18-67
 activity#com.topelec.buscard.RechargeActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:58:10-74
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:58:10-74
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:58:20-71
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:58:20-71
 activity#com.topelec.buscard.ResumeActivity
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:59:10-72
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:59:10-72
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:59:20-69
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:59:20-69
 activity#com.topelec.sensortest.zigbeetest
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:62:10-73:21
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:62:10-73:21
 	android:label
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:65:10-59
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:65:10-59
 	android:configChanges
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:64:10-71
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:64:10-71
 	android:theme
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:66:10-48
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:66:10-48
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:63:10-58
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:63:10-58
 intent-filter#android.intent.category.DEFAULT+com.topelec.sensortest.ACTION_ZIGBEE
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:67:10-72:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:67:10-72:26
 action#com.topelec.sensortest.ACTION_ZIGBEE
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:68:10-72
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:68:10-72
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:68:18-69
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:68:18-69
 receiver#com.topelec.BootReceiver
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:87:9-93:20
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:87:9-93:20
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:87:19-58
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:87:19-58
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:88:13-92:29
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:88:13-92:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:90:17-91:26
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:90:17-91:26
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:90:25-76
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:90:25-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:97:5-97
+ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:97:5-97
 	android:name
-		ADDED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml:97:22-78
+		ADDED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml:97:22-78
 uses-sdk
-INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\lib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:22.2.1] D:\avds\.android\build-cache\5d2dbfc6c46858be74627b29309cf8a91966a4c1\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\avds\.android\build-cache\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\avds\.android\build-cache\8e96037b645333a4fccd05472b6c60a7894a5cb5\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\avds\.android\build-cache\32ceda69628394f99a7cb750d7951c3f07f462fa\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\120df42272d8ee880bcc72d7dd0015aad5df4738\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\104ff51057de7b640283a135bd866d2366b0f433\output\AndroidManifest.xml:21:5-23:54
+INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\数据\大四上\物联网\canteen\lib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:22.2.1] D:\avds\.android\build-cache\806a9d77cd623865c4cf54042393816004d42086\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\avds\.android\build-cache\8cce616692a6ea6d30daedf158e5780b1a427c27\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\avds\.android\build-cache\1f96b172dec29c856f593b4d8e123636a2d221d8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\avds\.android\build-cache\c17911e6d2def14d7804cacdabbc2577e4f7f99b\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11\output\AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\104ff51057de7b640283a135bd866d2366b0f433\output\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:24.0.0] D:\avds\.android\build-cache\e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
+		INJECTED from D:\数据\大四上\物联网\canteen\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\10bbd942108dcd5649323a32b985f92bf6f426e7\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\AndroidManifest.xml:19:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:6:9-175
+ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:6:9-175
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:6:125-149
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:6:125-149
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:6:150-173
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:6:150-173
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\134aaee2044f6853563a3c5caffcaf9fb05527da\output\AndroidManifest.xml:6:79-124
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\AndroidManifest.xml:6:79-124
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\120df42272d8ee880bcc72d7dd0015aad5df4738\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\120df42272d8ee880bcc72d7dd0015aad5df4738\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\120df42272d8ee880bcc72d7dd0015aad5df4738\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\AndroidManifest.xml:20:20-65
