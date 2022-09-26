@@ -1,5 +1,9 @@
 #Internal package file, do not edit.
+<<<<<<< HEAD
 #Mon Sep 26 16:21:19 CST 2022
+=======
+#Mon Sep 26 15:53:03 CST 2022
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\ic_notifications_black_24dp.xml
@@ -7,9 +11,15 @@
 60.set=ANDROID_RESOURCE
 2.set=ANDROID_RESOURCE
 164.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 26.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\foodtraceability_msg_background.png
 209.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 78.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png
+=======
+26.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\cover_selector.xml
+209.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+78.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 21.set=ANDROID_RESOURCE
 53.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_big_media.xml
 107.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -22,8 +32,13 @@
 263.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 186.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 277.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 161.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 192.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png
+=======
+161.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+192.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 132.set=ANDROID_RESOURCE
 238.set=ANDROID_RESOURCE
 179.set=ANDROID_RESOURCE
@@ -64,11 +79,19 @@
 98.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 21.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 17.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 73.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 229.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png
 225.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 204.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png
 127.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\nav_header_main2.xml
+=======
+73.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+229.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
+225.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+204.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_smarthome.xml
+127.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\buscard_button_author.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 63.set=ANDROID_RESOURCE
 6.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.set=ANDROID_RESOURCE
@@ -90,6 +113,7 @@
 108.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 237.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 135.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 212.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 81.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_in.xml
 135.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -98,6 +122,16 @@
 110.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 162.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 193.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png
+=======
+212.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+81.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png
+135.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+264.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+187.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+110.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+162.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+193.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_notifications_black_24dp.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 142.set=ANDROID_RESOURCE
 248.set=ANDROID_RESOURCE
 189.set=ANDROID_RESOURCE
@@ -138,10 +172,17 @@
 99.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 27.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 74.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 226.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 205.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_notifications_black_24dp.png
 128.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
+=======
+74.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+226.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+205.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_notpass.png
+128.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 73.set=ANDROID_RESOURCE
 7.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 257.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml
@@ -307,8 +348,13 @@
 119.set=ANDROID_RESOURCE
 61.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 57.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png
 32.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_kichen_curtains_close.png
+=======
+57.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smartagriculture_fan_on.png
+32.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_lines.xml
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 165.set=ANDROID_RESOURCE
 63.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 215.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -373,18 +419,31 @@
 262.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
 185.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_bottom.xml
 6.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 160.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png
+=======
+160.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_item_layout.xml
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 168.set=ANDROID_RESOURCE
 221.set=ANDROID_RESOURCE
 25.set=ANDROID_RESOURCE
 129.set=ANDROID_RESOURCE
 71.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 58.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 33.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_media_action.xml
 64.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 216.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 85.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png
 139.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+58.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+33.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png
+64.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+216.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+85.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_icon.xml
+139.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 32.set=ANDROID_RESOURCE
 268.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 60.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml
@@ -444,10 +503,17 @@
 211.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_up_container.xml
 134.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png
 74.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 263.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\foodtraceability_standby.png
 186.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 161.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\buscard_consume_check_right.png
 192.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+263.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png
+186.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_light.xml
+161.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+192.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 231.set=ANDROID_RESOURCE
 172.set=ANDROID_RESOURCE
 35.set=ANDROID_RESOURCE
@@ -516,11 +582,19 @@ count=280
 212.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background_light.xml
 135.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_material.xml
 84.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 264.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_dropdown_item_icons_2line.xml
 187.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_smartagriculture.xml
 110.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
 162.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\image_2.png
 193.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+264.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_item_material.xml
+187.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png
+110.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_big_media_narrow.xml
+162.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light.xml
+193.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 241.set=ANDROID_RESOURCE
 182.set=ANDROID_RESOURCE
 45.set=ANDROID_RESOURCE
@@ -567,11 +641,19 @@ count=280
 257.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 103.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 276.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 232.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 155.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\image_4.png
 130.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 182.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+232.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+155.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+130.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+182.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 131.set=ANDROID_RESOURCE
 237.set=ANDROID_RESOURCE
 178.set=ANDROID_RESOURCE
@@ -589,12 +671,21 @@ count=280
 136.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_dialog_title_material.xml
 94.set=ANDROID_RESOURCE
 205.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 265.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_dark.xml
 188.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
 111.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 240.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\btn_background.xml
 163.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item_coverflow.xml
 194.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+265.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_tab_icon.xml
+188.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_sync_black_24dp.png
+111.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png
+240.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png
+163.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+194.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 251.set=ANDROID_RESOURCE
 192.set=ANDROID_RESOURCE
 55.set=ANDROID_RESOURCE
@@ -622,16 +713,24 @@ count=280
 200.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_dark.xml
 123.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_hint_message.png
 23.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 2.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 252.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light_focused.xml
 175.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_notpass.png
 150.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_kichen_window_day.png
+=======
+2.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+252.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png
+175.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml
+150.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\foodtraceability_standby.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 127.set=ANDROID_RESOURCE
 279.set=ANDROID_RESOURCE
 30.set=ANDROID_RESOURCE
 48.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_navigation_item_subheader.xml
 23.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_bedroom_window_day.png
 134.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 206.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 75.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light.xml
 129.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -645,6 +744,21 @@ count=280
 131.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 260.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 183.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+206.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+75.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_in.xml
+129.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+227.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_full_material.xml
+258.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+50.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png
+104.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+233.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+156.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
+131.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+260.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+183.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 141.set=ANDROID_RESOURCE
 247.set=ANDROID_RESOURCE
 188.set=ANDROID_RESOURCE
@@ -696,10 +810,17 @@ count=280
 201.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\btn_icon_blue.xml
 124.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media.xml
 33.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 3.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 253.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smarthomewall_bedroom_window_night.png
 176.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
 151.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\buscard_button_author.png
+=======
+3.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+253.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light.xml
+176.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\buscard_recharge_background.png
+151.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 137.set=ANDROID_RESOURCE
 40.set=ANDROID_RESOURCE
 49.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_coverflow_activity.xml
@@ -774,6 +895,7 @@ count=280
 50.set=ANDROID_RESOURCE
 25.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_item_layout.xml
 154.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 208.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 77.file=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_time.xml
 11.set=ANDROID_RESOURCE
@@ -781,6 +903,15 @@ count=280
 106.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 235.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 158.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+208.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+77.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_buscard.xml
+11.set=JAVA_RESOURCE
+52.file=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+106.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+235.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+158.base=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 115.set=ANDROID_RESOURCE
 210.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_
 133.base=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\res\\resources-debug.ap_

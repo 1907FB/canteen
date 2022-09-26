@@ -4,9 +4,15 @@
       <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/1d0b2c4c827881318c409b723afb29eb47410a0c/output/res" />
       <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/1d0b2c4c827881318c409b723afb29eb47410a0c/output/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/1d0b2c4c827881318c409b723afb29eb47410a0c/output/jars/classes.jar!/" />
+<<<<<<< HEAD
       <root url="file://$USER_HOME$/.android/build-cache/41778ffba2150473032983da76dd2f7ef70e9218/output/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.android/build-cache/41778ffba2150473032983da76dd2f7ef70e9218/output/res" />
       <root url="jar://$USER_HOME$/.android/build-cache/41778ffba2150473032983da76dd2f7ef70e9218/output/jars/classes.jar!/" />
+=======
+      <root url="jar://$USER_HOME$/.android/build-cache/7d0826f48f720c0bcec5aebd1c1b8c552a133c5e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7d0826f48f720c0bcec5aebd1c1b8c552a133c5e/output/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.android/build-cache/7d0826f48f720c0bcec5aebd1c1b8c552a133c5e/output/res" />
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
     </CLASSES>
     <JAVADOC />
     <SOURCES />

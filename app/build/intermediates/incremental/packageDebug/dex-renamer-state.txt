@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Mon Sep 26 16:21:18 CST 2022
 base.0=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+=======
+#Mon Sep 26 15:53:03 CST 2022
+base.0=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
 renamed.0=classes.dex
 file.0=E\:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

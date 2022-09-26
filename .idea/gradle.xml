@@ -8,6 +8,10 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../物联网/IOT_Lab/IOT Lab Tools/gradle-4.6-all" />
+>>>>>>> b7cb22b646a02dbeac6f2204d18181e0c6f4e516
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>

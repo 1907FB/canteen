@@ -661,7 +661,7 @@ public class SensorControl {
      * 接口中函数在对应的需要更新状态的Activity中实现
      */
     public interface LedListener {
-        public void LedControlResult(byte led_id,byte led_status);
+        public void LedControlResult(byte led_id, byte led_status);
     }
 
     /**
@@ -739,7 +739,7 @@ public class SensorControl {
      * senser_data：温度或湿度值
      */
     public interface TempHumListener {
-        public void tempHumReceive(byte senser_id,int senser_data);
+        public void tempHumReceive(byte senser_id, int senser_data);
     }
 
     /**
@@ -930,7 +930,7 @@ public class SensorControl {
     }
 
     public interface AccelerationSensorListener {
-        public void accelerationSensorReceive(byte sensor_id,int sensor_data);
+        public void accelerationSensorReceive(byte sensor_id, int sensor_data);
     }
 
     public void addAccelerationSensorListener(AccelerationSensorListener accelerationSensor) {
