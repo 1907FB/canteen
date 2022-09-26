@@ -88,7 +88,7 @@ public class ResumeActivity extends Activity {
         mContext = this;
         mDatabaseHelper = DatabaseHelper.getInstance(mContext);
         mDatabase = mDatabaseHelper.getReadableDatabase();
-
+        mSensorControl = new SensorControl();
         statusView = (ImageView)findViewById(R.id.resume_statusView);
         idView = (TextView)findViewById(R.id.resume_idView);
         stepView = (TextView)findViewById(R.id.stepView);
