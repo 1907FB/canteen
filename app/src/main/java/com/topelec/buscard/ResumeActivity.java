@@ -1,34 +1,28 @@
 package com.topelec.buscard;
 
 import android.app.Activity;
-import android.content.BroadcastReceiver;
-import android.content.ContentValues;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
+import android.content.*;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.topelec.database.DatabaseHelper;
+import com.topelec.zigbeecontrol.SensorControl;
 import it.moondroid.coverflowdemo.R;
 
 public class ResumeActivity extends Activity {
 
     private static final String TAG = ".ResumeActivity";
-    private static final double stepValue = 2.00;
+    private static final double stepValue = 6.66;
 
     private ImageView statusView;
     private TextView idView;
     private TextView stepView;
     private TextView sumView;
 
+    SensorControl mSensorControl;
     /**数据库相关**/
     Context mContext;
     DatabaseHelper mDatabaseHelper;
@@ -57,7 +51,11 @@ public class ResumeActivity extends Activity {
                     break;
                 case 3: //成功获取卡号
                     String currentId = intent.getExtras().getString("Result");
-                    updateCardUI(currentId);
+                    try {
+                        updateCardUI(currentId);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     break;
                 default:
                     break;
@@ -102,7 +100,7 @@ public class ResumeActivity extends Activity {
      *
      * @param CardId 卡号
      */
-    private void updateCardUI(String CardId) {
+    private void updateCardUI(String CardId) throws InterruptedException {
         String searchResult = searchHFCard(CARD_ID,CardId);
         if (searchResult == null || searchResult.length() <= 0) { //如果数据库中没有记录
             showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_please_author_first),"","");
@@ -116,7 +114,10 @@ public class ResumeActivity extends Activity {
                 showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_shortage),"",searchResult);
             }else {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
+                    mSensorControl.led1_On(false);
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
+                    Thread.sleep(500);
+                    mSensorControl.led1_Off(false);
                 }
 
             }
