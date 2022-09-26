@@ -13,6 +13,8 @@ import com.topelec.database.DatabaseHelper;
 import com.topelec.zigbeecontrol.SensorControl;
 import it.moondroid.coverflowdemo.R;
 
+import static java.lang.Thread.sleep;
+
 public class ResumeActivity extends Activity implements
         View.OnClickListener,SensorControl.LedListener,SensorControl.MotorListener,SensorControl.TempHumListener,SensorControl.LightSensorListener {
 
@@ -90,17 +92,18 @@ public class ResumeActivity extends Activity implements
         mContext = this;
         mDatabaseHelper = DatabaseHelper.getInstance(mContext);
         mDatabase = mDatabaseHelper.getReadableDatabase();
-        mSensorControl = new SensorControl();
-        mSensorControl = new SensorControl();
-        mSensorControl.addLedListener(this);
-        mSensorControl.addMotorListener(this);
-        mSensorControl.addTempHumListener(this);
-        mSensorControl.addLightSensorListener(this);
+
         statusView = (ImageView)findViewById(R.id.resume_statusView);
         idView = (TextView)findViewById(R.id.resume_idView);
         stepView = (TextView)findViewById(R.id.stepView);
         sumView = (TextView)findViewById(R.id.resume_sumView);
         hideMsgPage();
+        mSensorControl = new SensorControl();
+        mSensorControl.addLedListener(this);
+        mSensorControl.addMotorListener(this);
+        mSensorControl.addTempHumListener(this);
+        mSensorControl.addLightSensorListener(this);
+        mSensorControl.actionControl(true);
     }
 
     /**
@@ -121,10 +124,11 @@ public class ResumeActivity extends Activity implements
                 showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_shortage),"",searchResult);
             }else {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
-                    mSensorControl.allLeds_On(false);
+                    mSensorControl.led1_On(false);
+//                    System.out.println("ok");
+                    sleep(500);
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
-//                    Thread.sleep(500);
-//                    mSensorControl.led1_Off(false);
+                    mSensorControl.led1_Off(false);
                 }
 
             }

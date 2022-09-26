@@ -1,4 +1,4 @@
-#Mon Sep 26 14:10:41 CST 2022
+#Mon Sep 26 15:53:03 CST 2022
 base.0=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

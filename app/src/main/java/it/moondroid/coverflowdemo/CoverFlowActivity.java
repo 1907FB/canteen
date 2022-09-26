@@ -34,11 +34,11 @@ public class CoverFlowActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_coverflow);
 
-//        mData.add(new GameEntity(R.drawable.image_1, R.string.title1));
-//        mData.add(new GameEntity(R.drawable.image_2, R.string.title2));
+        mData.add(new GameEntity(R.drawable.image_1, R.string.title1));
+        mData.add(new GameEntity(R.drawable.image_2, R.string.title2));
         mData.add(new GameEntity(R.drawable.image_3, R.string.title3));
-//        mData.add(new GameEntity(R.drawable.image_4, R.string.title4));
-//        mData.add(new GameEntity(R.drawable.image_5,R.string.title5));
+        mData.add(new GameEntity(R.drawable.image_4, R.string.title4));
+        mData.add(new GameEntity(R.drawable.image_5,R.string.title5));
 //        mData.add(new GameEntity(R.drawable.image_5,R.string.title5));
 //        mData.add(new GameEntity(R.drawable.image_6,R.string.title6));
 
@@ -75,28 +75,28 @@ public class CoverFlowActivity extends AppCompatActivity {
                         Toast.LENGTH_SHORT).show();
 
                 switch (position) {
-//                    case 0:
-//                        Intent intent = new Intent("com.topelec.smarthome.ACTION_SMARTHOME");
-//                        startActivity(intent);
-//                        break;
-//                    case 1:
-//                        Intent intent1 = new Intent("com.topelec.smartagriculture.ACTION_AGRICULTURE");
-//                        startActivity(intent1);
-//                        break;
                     case 0:
+                        Intent intent = new Intent("com.topelec.smarthome.ACTION_SMARTHOME");
+                        startActivity(intent);
+                        break;
+                    case 1:
+                        Intent intent1 = new Intent("com.topelec.smartagriculture.ACTION_AGRICULTURE");
+                        startActivity(intent1);
+                        break;
+                    case 2:
                         Intent intent2 = new Intent("com.topelec.buscard.ACTION_BUSCARD");
                         startActivity(intent2);
                         break;
-//                    case 3:
-//                        Intent intent3 = new Intent("com.topelec.foodtraceability.ACTION_FOODTRACEABILITY");
-//                        startActivity(intent3);
-//                        break;
-//                    case 4:
-//                        Intent intent4 = new Intent("com.topelec.sensortest.ACTION_ZIGBEE");
-//                        startActivity(intent4);
-//                        break;
-//                    case 5:
-//                        break;
+                    case 3:
+                        Intent intent3 = new Intent("com.topelec.foodtraceability.ACTION_FOODTRACEABILITY");
+                        startActivity(intent3);
+                        break;
+                    case 4:
+                        Intent intent4 = new Intent("com.topelec.sensortest.ACTION_ZIGBEE");
+                        startActivity(intent4);
+                        break;
+                    case 5:
+                        break;
                     default:
                         break;
                 }

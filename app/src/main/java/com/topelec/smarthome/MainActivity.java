@@ -466,7 +466,7 @@ public class MainActivity extends Activity implements
     @Override
     protected void onStart() {
         super.onStart();
-
+//
         mContentView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LOW_PROFILE
                 | View.SYSTEM_UI_FLAG_FULLSCREEN
                 | View.SYSTEM_UI_FLAG_LAYOUT_STABLE
@@ -507,7 +507,6 @@ public class MainActivity extends Activity implements
 
     @Override
     public void LedControlResult(byte led_id,byte led_status) {
-
         Message msg = new Message();
         msg.what = 0x01;
         Bundle data = new Bundle();
