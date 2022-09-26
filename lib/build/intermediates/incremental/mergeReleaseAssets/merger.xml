@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\lib\src\main\assets"/><source path="D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\lib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\数据\大三下\物联网\最后一次作业\物联网demo程序分析\CoverFlow-master\lib\src\release\assets"/></dataSet></merger>

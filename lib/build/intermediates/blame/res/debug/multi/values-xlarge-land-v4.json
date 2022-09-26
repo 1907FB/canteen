@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\数据\\大三下\\物联网\\最后一次作业\\物联网demo程序分析\\CoverFlow-master\\lib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "D:\\avds\\.android\\build-cache\\eafc5d6c306223dd81b3423f0a2ac68646ae3b9e\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 63,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]
