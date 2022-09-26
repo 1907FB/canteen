@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "outputFile": "E:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 169
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

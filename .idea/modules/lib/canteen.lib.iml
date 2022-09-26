@@ -4,7 +4,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":lib" />
-        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="2.3.0" />
         <option name="LAST_KNOWN_AGP_VERSION" value="2.3.0" />
       </configuration>
     </facet>
@@ -27,8 +27,6 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://$MODULE_DIR$/../../../lib/build/intermediates/classes/debug" />
-    <output-test url="file://$MODULE_DIR$/../../../lib/build/intermediates/classes/test/debug" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../lib">
       <sourceFolder url="file://$MODULE_DIR$/../../../lib/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />

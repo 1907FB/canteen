@@ -3,102 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\avds\.android\build-cache\c17911e6d2def14d7804cacdabbc2577e4f7f99b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_527b4c640476bae9b264aaed5dfd321241ef4974.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\e21ee6b3f49b4f35b0c210cfc058974d115a8905\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_120e6a20a4cfdf6578279103e6c662f408d72933.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\数据\大四上\物联网\canteen\lib\build\intermediates\bundles\default\classes.jar"
+        jar="E:\study\大四\物联网\canteen\lib\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b00240729c1b62eaf5aeaf05e18d460c3da2ddbf">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_0dfbe6e7f265ce857c18b5b9a77117161eb433bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Faker\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_60d5c35cc89fd50fa9a6a48456e9dab2531ff2b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\806a9d77cd623865c4cf54042393816004d42086\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_245fa4d95157e61d9fc08d728e59bdde53c30965.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\1d0b2c4c827881318c409b723afb29eb47410a0c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_938363c9d4cfd23fe2fa7cffa3231719efd4ed1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\b0a88090a49952efcad6f970343d9d7658bab16e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_a7e306d1602d084fe9dd16af01dfbdab98571da3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11\output\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_08aabea2391fc597a62137adfdbab7e4c8f57e20.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\1f96b172dec29c856f593b4d8e123636a2d221d8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_daa5b2f40d9dfbe2bd5c9d2bcea877d0a073c675.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\8cce616692a6ea6d30daedf158e5780b1a427c27\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_c4a13222ab1675da5bbb42bbbbdd166118f217b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\avds\.android\build-cache\e03e8019e7e08c7d56ccf6b6d4128b3c76db8a11\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="D:\数据\大四上\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_81d4f0e244f6ede5db28da24ce7a6eeae21032c1.jar" />
+        <dex dex="E:\study\大四\物联网\canteen\app\build\intermediates\pre-dexed\debug\classes_c8602cd8d8af85a03057faaac3e76cf7d1ddae4e.jar" />
     </item>
 
 </items>

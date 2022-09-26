@@ -2,11 +2,15 @@
   <library name="Gradle: com.android.support:appcompat-v7:22.2.1@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/8cce616692a6ea6d30daedf158e5780b1a427c27/output/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ba78f3988316123ecb32f50d44c0857781291695/output/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../avds/.android/build-cache/8cce616692a6ea6d30daedf158e5780b1a427c27/output/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/8cce616692a6ea6d30daedf158e5780b1a427c27/output/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../../avds/.android/build-cache/8cce616692a6ea6d30daedf158e5780b1a427c27/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/ba78f3988316123ecb32f50d44c0857781291695/output/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ba78f3988316123ecb32f50d44c0857781291695/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ba78f3988316123ecb32f50d44c0857781291695/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
