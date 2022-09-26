@@ -183,10 +183,8 @@ public class SensorControl {
      */
 
     public void led1_On(boolean isWaiting) {
-        System.out.println("OK");
+
         queueToSend(Command.led1_on, isWaiting);
-        System.out.println(sendingQueue.size());
-        System.out.println("OK2");
     }
 
     /**
@@ -394,7 +392,6 @@ public class SensorControl {
             }
         } else {                                 //插入队列头部，优先发送
             synchronized (sendingQueue) {
-                System.out.println(666);
                 sendingQueue.addFirst(element);
             }
         }
@@ -418,7 +415,7 @@ public class SensorControl {
      * 数据处理函数
      */
     private void parseCommand(byte[] cmd) {
-        System.out.println(777);
+
 //        int temperature,humidity;
         int ad_value,temphum_value;
         Message msg = new Message();
@@ -487,14 +484,12 @@ public class SensorControl {
             int cmd_len = 0;
             byte[] cmd = new byte[6];
 
-            while(!isOver) {
+            while(isOver ==  false) {
 //            while (!Thread.currentThread().isInterrupted()) {
 
                 try {
                     byte[] buffer = new byte[64];
-                    if (mInputStream == null) {
-                        return;
-                    }
+                    if (mInputStream == null) return;
                     size = mInputStream.read(buffer);
                     if (size > 0) {
                         //                    onDataReceived(buffer, size); //此处分析收到数据传感器种类
@@ -535,6 +530,7 @@ public class SensorControl {
                     flag = 0;
                     sum = 0;
                     cmd_len = 0;
+                    continue;
                 }
             }
         }
@@ -561,9 +557,8 @@ public class SensorControl {
             while (!Thread.currentThread().isInterrupted()) {
                 synchronized (mOutputStream) {
                     try {
-                        if(sendingQueue.size() > 0) {
+                        if(sendingQueue.size() > 0)
                             mOutputStream.write(getQueueElement());
-                        }
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -666,7 +661,7 @@ public class SensorControl {
      * 接口中函数在对应的需要更新状态的Activity中实现
      */
     public interface LedListener {
-        public void LedControlResult(byte led_id,byte led_status);
+        public void LedControlResult(byte led_id, byte led_status);
     }
 
     /**
@@ -744,7 +739,7 @@ public class SensorControl {
      * senser_data：温度或湿度值
      */
     public interface TempHumListener {
-        public void tempHumReceive(byte senser_id,int senser_data);
+        public void tempHumReceive(byte senser_id, int senser_data);
     }
 
     /**
@@ -935,7 +930,7 @@ public class SensorControl {
     }
 
     public interface AccelerationSensorListener {
-        public void accelerationSensorReceive(byte sensor_id,int sensor_data);
+        public void accelerationSensorReceive(byte sensor_id, int sensor_data);
     }
 
     public void addAccelerationSensorListener(AccelerationSensorListener accelerationSensor) {

@@ -1,32 +1,34 @@
 package com.topelec.buscard;
 
 import android.app.Activity;
-import android.content.*;
+import android.content.BroadcastReceiver;
+import android.content.ContentValues;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import com.topelec.database.DatabaseHelper;
-import com.topelec.zigbeecontrol.SensorControl;
 import it.moondroid.coverflowdemo.R;
 
-import static java.lang.Thread.sleep;
-
-public class ResumeActivity extends Activity implements
-        View.OnClickListener,SensorControl.LedListener,SensorControl.MotorListener,SensorControl.TempHumListener,SensorControl.LightSensorListener {
+public class ResumeActivity extends Activity {
 
     private static final String TAG = ".ResumeActivity";
-    private static final double stepValue = 6.66;
+    private static double stepValue = 9.00;
 
     private ImageView statusView;
     private TextView idView;
     private TextView stepView;
     private TextView sumView;
 
-    SensorControl mSensorControl;
     /**数据库相关**/
     Context mContext;
     DatabaseHelper mDatabaseHelper;
@@ -55,11 +57,7 @@ public class ResumeActivity extends Activity implements
                     break;
                 case 3: //成功获取卡号
                     String currentId = intent.getExtras().getString("Result");
-                    try {
-                        updateCardUI(currentId);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+                    updateCardUI(currentId);
                     break;
                 default:
                     break;
@@ -87,9 +85,15 @@ public class ResumeActivity extends Activity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resume);
 
+/**Todo: 1. 输入消费金额
+ *       2. 放入卡片
+ *       3. 余额不足提示
+ *       4. 余额充足则扣费
+ */
 
         /**数据库相关变量初始化**/
         mContext = this;
+        final EditText resumeText = (EditText) findViewById(R.id.resumeText);
         mDatabaseHelper = DatabaseHelper.getInstance(mContext);
         mDatabase = mDatabaseHelper.getReadableDatabase();
 
@@ -97,20 +101,23 @@ public class ResumeActivity extends Activity implements
         idView = (TextView)findViewById(R.id.resume_idView);
         stepView = (TextView)findViewById(R.id.stepView);
         sumView = (TextView)findViewById(R.id.resume_sumView);
+        ImageButton btnResume = (ImageButton) findViewById(R.id.btnRecharge);
+        btnResume.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //TODO: 获取text输入值，并更新到所要扣费的变量stepValue中。
+                CharSequence value = resumeText.getText();
+                stepValue = Double.parseDouble(String.valueOf(value));
+            }
+        });
         hideMsgPage();
-        mSensorControl = new SensorControl();
-        mSensorControl.addLedListener(this);
-        mSensorControl.addMotorListener(this);
-        mSensorControl.addTempHumListener(this);
-        mSensorControl.addLightSensorListener(this);
-        mSensorControl.actionControl(true);
     }
 
     /**
      *
      * @param CardId 卡号
      */
-    private void updateCardUI(String CardId) throws InterruptedException {
+    private void updateCardUI(String CardId) {
         String searchResult = searchHFCard(CARD_ID,CardId);
         if (searchResult == null || searchResult.length() <= 0) { //如果数据库中没有记录
             showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_please_author_first),"","");
@@ -124,11 +131,7 @@ public class ResumeActivity extends Activity implements
                 showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_shortage),"",searchResult);
             }else {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
-                    mSensorControl.led1_On(false);
-//                    System.out.println("ok");
-                    sleep(500);
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
-                    mSensorControl.led1_Off(false);
                 }
 
             }
@@ -195,30 +198,5 @@ public class ResumeActivity extends Activity implements
     protected void onStop() {
         super.onStop();
         unregisterReceiver(broadcastReceiver);
-    }
-
-    @Override
-    public void onClick(View v) {
-
-    }
-
-    @Override
-    public void LedControlResult(byte led_id, byte led_status) {
-
-    }
-
-    @Override
-    public void motorControlResult(byte motor_status) {
-
-    }
-
-    @Override
-    public void tempHumReceive(byte senser_id, int senser_data) {
-
-    }
-
-    @Override
-    public void lightSensorReceive(byte sensor_status) {
-
     }
 }
