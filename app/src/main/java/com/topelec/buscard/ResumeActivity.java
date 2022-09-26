@@ -122,6 +122,7 @@ public class ResumeActivity extends Activity implements
             }else {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
                     mSensorControl.led1_On(false);
+                    System.out.println(666);
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
                     Thread.sleep(500);
                     mSensorControl.led1_Off(false);
