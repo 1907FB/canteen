@@ -6,13 +6,15 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.topelec.database.DatabaseHelper;
 import com.topelec.zigbeecontrol.SensorControl;
 import it.moondroid.coverflowdemo.R;
 
-public class ResumeActivity extends Activity {
+public class ResumeActivity extends Activity implements
+        View.OnClickListener,SensorControl.LedListener,SensorControl.MotorListener,SensorControl.TempHumListener,SensorControl.LightSensorListener {
 
     private static final String TAG = ".ResumeActivity";
     private static final double stepValue = 6.66;
@@ -89,6 +91,11 @@ public class ResumeActivity extends Activity {
         mDatabaseHelper = DatabaseHelper.getInstance(mContext);
         mDatabase = mDatabaseHelper.getReadableDatabase();
         mSensorControl = new SensorControl();
+        mSensorControl = new SensorControl();
+        mSensorControl.addLedListener(this);
+        mSensorControl.addMotorListener(this);
+        mSensorControl.addTempHumListener(this);
+        mSensorControl.addLightSensorListener(this);
         statusView = (ImageView)findViewById(R.id.resume_statusView);
         idView = (TextView)findViewById(R.id.resume_idView);
         stepView = (TextView)findViewById(R.id.stepView);
@@ -184,5 +191,30 @@ public class ResumeActivity extends Activity {
     protected void onStop() {
         super.onStop();
         unregisterReceiver(broadcastReceiver);
+    }
+
+    @Override
+    public void onClick(View v) {
+
+    }
+
+    @Override
+    public void LedControlResult(byte led_id, byte led_status) {
+
+    }
+
+    @Override
+    public void motorControlResult(byte motor_status) {
+
+    }
+
+    @Override
+    public void tempHumReceive(byte senser_id, int senser_data) {
+
+    }
+
+    @Override
+    public void lightSensorReceive(byte sensor_status) {
+
     }
 }
