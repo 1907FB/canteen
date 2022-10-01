@@ -222,7 +222,7 @@ public class CardActivityGroup extends ActivityGroup {
             public void onClick(View v) {
                 // TODO Auto-generated method stub
                 flag = 1;
-                getWindow().getDecorView().setBackgroundResource(R.drawable.buscard_recharge_background0);
+                getWindow().getDecorView().setBackgroundResource(R.drawable.buscard_recharge_background);
                 showView(flag);
                 rechargeView.setBackgroundResource(R.drawable.frame_button_background);
                 resumeView.setBackgroundResource(R.drawable.frame_button_nopressbg);

@@ -1,7 +1,7 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-             android:background="@drawable/buscard_recharge_background"
+             android:background="@drawable/canteencard_recharge_background"
     tools:context="com.topelec.buscard.RechargeActivity">
 
 
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn_author"
-        android:src="@drawable/buscard_button_author"
+        android:src="@drawable/canteencard_button_author"
         android:background="@drawable/btn_background"
         android:layout_marginLeft="792dp"
         android:layout_marginTop="242dp" />
@@ -35,7 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn_cancel_author"
-        android:src="@drawable/buscard_button_cancle"
+        android:src="@drawable/canteencard_button_cancle"
         android:background="@drawable/btn_background"
         android:layout_marginLeft="885dp"
         android:layout_marginTop="242dp" />
@@ -60,12 +60,12 @@
         android:textColor="@color/accent_material_light"
         android:textSize="20dp" />
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/btnRecharge"
-        android:src="@drawable/buscard_button_recharge"
-        android:background="@drawable/btn_background"
-        android:layout_marginLeft="840dp"
-        android:layout_marginTop="520dp" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnRecharge"
+            android:src="@drawable/canteencard_button_recharge"
+            android:background="@drawable/btn_background"
+            android:layout_marginLeft="840dp"
+            android:layout_marginTop="550dp"/>
 
 </FrameLayout>
