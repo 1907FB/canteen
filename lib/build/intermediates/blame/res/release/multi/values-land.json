@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\数据\\大四上\\物联网\\canteen\\lib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "E:\\study\\大四\\物联网\\canteen\\lib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 388
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-land\\values-land.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

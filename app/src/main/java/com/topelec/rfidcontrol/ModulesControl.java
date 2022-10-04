@@ -115,7 +115,7 @@ public class ModulesControl {
 
     /**
      * 串口初始化函数
-     * @throws java.io.IOException
+     * @throws IOException
      */
     private void initUart(String RfidType,String Password) throws IOException
     {

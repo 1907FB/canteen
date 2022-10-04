@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+        "outputFile": "E:\\study\\大四\\物联网\\canteen\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 276
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 478
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -53,7 +53,7 @@
                     "endOffset": 597
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 692
                 },
                 "from": {
-                    "file": "D:\\avds\\.android\\build-cache\\8cce616692a6ea6d30daedf158e5780b1a427c27\\output\\res\\values-v12\\values-v12.xml",
+                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\ba78f3988316123ecb32f50d44c0857781291695\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
