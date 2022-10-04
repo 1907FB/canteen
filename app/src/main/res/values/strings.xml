@@ -98,6 +98,8 @@
 
     <string name="buscard_please_author_first">请先开卡授权</string>
 
+    <string name="buscard_please_input_first">请先输入消费金额</string>
+
     <string name="buscard_search_more_than_one">找到多条记录</string>
 
     <string name="buscard_not_check_card">未检测到卡</string>

@@ -22,7 +22,7 @@ import it.moondroid.coverflowdemo.R;
 public class ResumeActivity extends Activity {
 
     private static final String TAG = ".ResumeActivity";
-    private static double stepValue = 9.00;
+    private static double stepValue = 0;
 
     private ImageView statusView;
     private TextView idView;
@@ -87,8 +87,9 @@ public class ResumeActivity extends Activity {
 
 /**Todo: 1. 输入消费金额
  *       2. 放入卡片
+ *       2.1. 未输入提示
  *       3. 余额不足提示
- *       4. 余额充足则扣费
+ *       3.1 余额充足则扣费
  */
 
         /**数据库相关变量初始化**/
@@ -101,11 +102,12 @@ public class ResumeActivity extends Activity {
         idView = (TextView)findViewById(R.id.resume_idView);
         stepView = (TextView)findViewById(R.id.stepView);
         sumView = (TextView)findViewById(R.id.resume_sumView);
-        ImageButton btnResume = (ImageButton) findViewById(R.id.btnRecharge);
+//        TODO: get button
+        ImageButton btnResume = (ImageButton) findViewById(R.id.btnResume);
         btnResume.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO: 获取text输入值，并更新到所要扣费的变量stepValue中。
+//                TODO: 获取text输入值，并更新到所要扣费的变量stepValue中。
                 CharSequence value = resumeText.getText();
                 stepValue = Double.parseDouble(String.valueOf(value));
             }
@@ -126,6 +128,11 @@ public class ResumeActivity extends Activity {
             showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_search_more_than_one),"","");
 
         } else {  //返回金额，更新UI
+//            未输入金额
+            if (stepValue == 0){
+                showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_please_input_first),searchResult,"");
+                return;
+            }
             double newSum = Double.valueOf(searchResult) - stepValue;
             if (newSum < 0) {
                 showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_shortage),"",searchResult);
@@ -133,7 +140,7 @@ public class ResumeActivity extends Activity {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
                 }
-
+                stepValue = 0;
             }
 
         }

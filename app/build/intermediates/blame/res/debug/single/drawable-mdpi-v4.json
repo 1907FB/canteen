@@ -1,54 +1,54 @@
 [
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ico_delete_asset.png",
-        "source": "D:\\数据\\大四上\\物联网\\canteen\\lib\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\ico_delete_asset.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ico_delete_asset.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\lib\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\ico_delete_asset.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\数据\\大四上\\物联网\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "D:\\avds\\.android\\build-cache\\e21ee6b3f49b4f35b0c210cfc058974d115a8905\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     }
 ]
