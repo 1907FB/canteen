@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_background.xml",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\label_background.xml"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_pass.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_pass.png"
     },
@@ -12,20 +8,8 @@
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_consume_check_wrong.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_recharge.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_recharge.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_icon_white.xml",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\btn_icon_white.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_image.xml",
@@ -48,20 +32,8 @@
         "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_cancle.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_cancle.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_consume_check_right.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_consume_check_right.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_notpass.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_notpass.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cancle.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\button_cancle.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
@@ -72,24 +44,16 @@
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_window_day.png"
     },
     {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canteencard_button_recharge.jpg",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\canteencard_button_recharge.jpg"
+    },
+    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_aircon_btn_on.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_aircon_btn_on.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_panel_background.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\frame_panel_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_led_on.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthome_led_on.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
         "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_recharge_standby.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_recharge_standby.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_kichen_window_day.png",
@@ -100,64 +64,28 @@
         "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_air_con_status_on.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_air_con_status_on.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_bedroom_curtains_close.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_close.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_symbol_right.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_symbol_right.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_background.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_background.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_dark.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthome_dark.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_background.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\frame_button_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_resume.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_resume.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_btn_motor_on.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthome_btn_motor_on.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_aircon_btn_off.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_aircon_btn_off.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canteencard_recharge_background.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\canteencard_recharge_background.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_button_nopressbg.png",
@@ -172,20 +100,8 @@
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_window_night.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smartagriculture_fan_on.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smartagriculture_fan_on.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_kichen_curtains_close.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_curtains_close.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_image_peanut_butter.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_image_peanut_butter.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_author.png",
@@ -196,16 +112,8 @@
         "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_background.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canteencard_button_cancle.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\canteencard_button_cancle.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_breakin.png",
@@ -216,44 +124,20 @@
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_fire_warning.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\back.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_recharge_background.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_recharge_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover_selector.xml",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\cover_selector.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_bedroom_curtains_open.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_open.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_kichen_curtains_open.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_curtains_open.png"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_standby.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_standby.png"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_msg_background.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_msg_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\853eb3ab00347087e9f6c009ab54f71042efc05d\\output\\res\\drawable\\fab_background.xml"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_light1.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_light1.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -284,24 +168,8 @@
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\rounded_rectangle.xml"
     },
     {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smartagriculture_background.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smartagriculture_background.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_hint_message.png",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_hint_message.png"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_bright.png",
@@ -310,10 +178,6 @@
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
         "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -330,6 +194,170 @@
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_consume_background.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_consume_background.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\853eb3ab00347087e9f6c009ab54f71042efc05d\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canteencard_button_author.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\canteencard_button_author.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_background.xml",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\label_background.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_recharge.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_recharge.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_cancle.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_cancle.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_notpass.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_notpass.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cancle.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\button_cancle.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_panel_background.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\frame_panel_background.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_led_on.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthome_led_on.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_recharge_standby.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_recharge_standby.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_air_con_status_on.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_air_con_status_on.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_bedroom_curtains_close.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_close.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_symbol_right.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_symbol_right.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthome_dark.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthome_dark.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buscard_button_resume.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\buscard_button_resume.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_aircon_btn_off.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_aircon_btn_off.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smartagriculture_fan_on.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smartagriculture_fan_on.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_image_peanut_butter.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_image_peanut_butter.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_background.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_background.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover_selector.xml",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\cover_selector.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_kichen_curtains_open.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_curtains_open.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_msg_background.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_msg_background.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\853eb3ab00347087e9f6c009ab54f71042efc05d\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\835311db394bc11c07dd88e74ed4f209f0f8e896\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smarthomewall_hint_message.png",
+        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\smarthomewall_hint_message.png"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -354,17 +382,5 @@
     {
         "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foodtraceability_check_wrong.png",
         "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\foodtraceability_check_wrong.png"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\853eb3ab00347087e9f6c009ab54f71042efc05d\\output\\res\\drawable\\snackbar_background.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
-        "source": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\src\\main\\res\\drawable\\btn_background.xml"
-    },
-    {
-        "merged": "D:\\LM\\Semester_6\\J2EE\\lab\\canteen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\hyj\\.android\\build-cache\\af69d4a37faaf25920d00c0d3cb1e8fa20d3d2cc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     }
 ]

@@ -17,9 +17,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.topelec.database.DatabaseHelper;
+import com.topelec.zigbeecontrol.SensorControl;
 import it.moondroid.coverflowdemo.R;
 
-public class ResumeActivity extends Activity implements SensorControl.LedListener, {
+public class ResumeActivity extends Activity implements SensorControl.LedListener{
 
     private static final String TAG = ".ResumeActivity";
     private static double stepValue = 0;

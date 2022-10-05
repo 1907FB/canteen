@@ -413,6 +413,7 @@
     <string name="buscard_if_cancel_item">是否要消除此卡的记录？</string>
     <string name="buscard_not_check_card">未检测到卡</string>
     <string name="buscard_please_author_first">请先开卡授权</string>
+    <string name="buscard_please_input_first">请先输入消费金额</string>
     <string name="buscard_recharge_fail">充值失败</string>
     <string name="buscard_recharge_hint">请输入充值金额</string>
     <string name="buscard_recharge_succeed">充值成功</string>
