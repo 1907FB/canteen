@@ -19,7 +19,7 @@ import android.widget.TextView;
 import com.topelec.database.DatabaseHelper;
 import it.moondroid.coverflowdemo.R;
 
-public class ResumeActivity extends Activity {
+public class ResumeActivity extends Activity implements SensorControl.LedListener, {
 
     private static final String TAG = ".ResumeActivity";
     private static double stepValue = 0;
@@ -29,6 +29,7 @@ public class ResumeActivity extends Activity {
     private TextView stepView;
     private TextView sumView;
 
+    SensorControl mSensorControl;
     /**数据库相关**/
     Context mContext;
     DatabaseHelper mDatabaseHelper;
@@ -97,6 +98,9 @@ public class ResumeActivity extends Activity {
         final EditText resumeText = (EditText) findViewById(R.id.resumeText);
         mDatabaseHelper = DatabaseHelper.getInstance(mContext);
         mDatabase = mDatabaseHelper.getReadableDatabase();
+        mSensorControl = new SensorControl();
+        mSensorControl.addLedListener(this);
+        mSensorControl.actionControl(true);
 
         statusView = (ImageView)findViewById(R.id.resume_statusView);
         idView = (TextView)findViewById(R.id.resume_idView);
@@ -138,6 +142,7 @@ public class ResumeActivity extends Activity {
                 showMsgPage(R.drawable.buscard_consume_check_wrong,getResources().getString(R.string.buscard_shortage),"",searchResult);
             }else {
                 if (Double.toString(newSum).equals(updateHFCard(CARD_ID, CardId, SUM, Double.toString(newSum)))) {
+                    mSensorControl.led1_On(false);
                     showMsgPage(R.drawable.buscard_consume_check_right,CardId,Double.toString(stepValue),Double.toString(newSum));
                 }
                 stepValue = 0;
@@ -205,5 +210,10 @@ public class ResumeActivity extends Activity {
     protected void onStop() {
         super.onStop();
         unregisterReceiver(broadcastReceiver);
+    }
+
+    @Override
+    public void LedControlResult(byte led_id, byte led_status) {
+
     }
 }
